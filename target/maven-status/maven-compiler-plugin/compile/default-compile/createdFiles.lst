@@ -1,0 +1,9 @@
+com\web\dto\PersonDto.class
+com\web\model\Person.class
+com\web\dto\PersonGetResponse.class
+com\web\persistance\HibernateFactory.class
+com\web\example\RestFul.class
+com\web\dao\PersonDao.class
+com\web\dto\PersonUpdateDto.class
+com\web\example\Main.class
+com\web\dao\PersonDaoImplement.class
